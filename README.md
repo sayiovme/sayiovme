@@ -17,7 +17,7 @@
 
 <br>
 
-<h3">📫 Contact 📫</h3>
+<h3>📫 Contact 📫</h3>
 <div>
   <a href="https://velog.io/@marihwang/">
     <img src="https://img.shields.io/badge/Velog-1EBC8F?style=for-the-badge&logo=velog&logoColor=white" />&nbsp
