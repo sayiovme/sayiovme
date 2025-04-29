@@ -1,6 +1,7 @@
 <div align= "center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=180&text=Hello,%20Stranger!&animation=&fontColor=000000&fontSize=70" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=fdcef9&height=180&text=Hello%20Stranger!&animation=&fontColor=000000&fontSize=70" />
     </div>
+    
     <div align= "center"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 📚 Introduce </h2>  
     <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> <p>심리학과 컴퓨터공학을 전공하고 프론트엔드 개발자로 커리어를 전환 중인 황선영입니다.</p></li></li><p>사용자 경험에 대한 이해를 바탕으로, 직관적이고 반응성 높은 웹 서비스를 만들고자 합니다.</p></li></li><p>Next.js와 TypeScript 기반의 프론트엔드 프로젝트 경험이 있으며, 협업과 커뮤니케이션을 중시합니다.</p> </div> 
