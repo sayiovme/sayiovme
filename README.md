@@ -1,5 +1,5 @@
 
-  ![header](https://capsule-render.vercel.app/api?type=waving&section=header&text=Hello%Stranger!&desc=Desc&descAlign=20)
+  ![header](https://capsule-render.vercel.app/api?type=waving&section=header&text=Hello%Stranger!)
 
 
 <h3 align="center">✨ Tech Stack ✨</h3>
