@@ -1,7 +1,10 @@
 
   ![header](https://capsule-render.vercel.app/api?type=waving&section=header&text=Hello%Stranger!)
-
-
+<h3 > Introduce </h3>
+심리학과 컴퓨터공학을 전공하고 프론트엔드 개발자로 커리어를 전환 중인 황선영입니다.  
+사용자 경험에 대한 이해를 바탕으로, 직관적이고 반응성 높은 웹 서비스를 만들고자 합니다.  
+Next.js와 TypeScript 기반의 풀스택 프로젝트 경험이 있으며, 협업과 커뮤니케이션을 중시합니다.  
+<br>
 <h3 >✨ Tech Stack ✨</h3>
 <div>
   <img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />&nbsp
